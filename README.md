@@ -1,4 +1,9 @@
 # orderpage
+Page for showing list of orders
+
+# routes
+- / 
+- /orders 
 
 ## Project setup
 ```
